@@ -8,7 +8,7 @@ Learn to discover open ports on devices in your local network to understand netw
 nmap -sS {ip-addrs}
 # Example Command 
 nmap -sS 192.168.29.000 
-" Research: Common Services on Detected Ports & Security Risks "
+# Research: Common Services on Detected Ports & Security Risks 
 --------------------------------------------------------------------------
 | Port | Service | Risk Level | Description                              |
 | ---- | ------- | ---------- | ---------------------------------------- |
